@@ -1,3 +1,10 @@
+# Repositorio para replicar paper original de Russel (2021) para Ipre UC
+
+
+Este es un fork del repositorio original para poder replicar el estudio de clasificación de música en base a emociones.
+
+Francisca Caprile de Ingenieria civil Matemática y Computacional UC (2024)
+
 # EMOPIA_cls
 
 This is the official repository of **EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation**. The paper has been accepted by International Society for Music Information Retrieval Conference 2021. This repository is the **Emotion Recognition** part (Audio and MIDI domain).
