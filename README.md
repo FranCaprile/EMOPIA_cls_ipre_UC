@@ -3,7 +3,12 @@
 
 Este es un fork del repositorio original para poder replicar el estudio de clasificación de música en base a emociones.
 
-Francisca Caprile de Ingenieria civil Matemática y Computacional UC (2024)
+A continuación se presenta una tabla con los resultados de la implementación del código del paper.
+
+![image](https://github.com/user-attachments/assets/c9efe04b-d2a3-4e33-b44a-682440b60379)
+
+
+Francisca Caprile de Ingenieria Civil Matemática y Computacional UC (2024)
 
 # EMOPIA_cls
 
